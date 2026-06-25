@@ -1,0 +1,3 @@
+edgeId,fromStation,toStation,edgeType,lineId,distance,travelTime,fare
+E-001,M-AIR-001,M-ALD-001,TRAIN,BLUE,3.2,3,20
+E-002,M-ALD-001,M-GDY-001,TRAIN,BLUE,2.1,2,10

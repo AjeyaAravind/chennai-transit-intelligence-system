@@ -1,0 +1,4 @@
+stationId,stationName,transportMode,lineId,hubId,latitude,longitude,interchange,status
+M-AIR-001,Airport,METRO,BLUE,HUB-AIR,12.9816,80.1649,false,OPERATIONAL
+M-ALD-001,Alandur,METRO,BLUE,HUB-ALD,13.0047,80.2015,true,OPERATIONAL
+M-GDY-001,Guindy,METRO,BLUE,HUB-GDY,13.0090,80.2133,true,OPERATIONAL
